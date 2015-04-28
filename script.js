@@ -21,7 +21,6 @@ server.on('listening', function() {
       socket.write(new Buffer('a'))
     }
     socket.end(new Buffer('b'))
-    socket.end()
     socket.on('end', function() {
       server.close(process.exit)
     })
