@@ -9,5 +9,5 @@ $ iojs index.js
 and in another terminal:
 
 ```bash
-iojs script [true]
+iojs script.js [true]
 ```
