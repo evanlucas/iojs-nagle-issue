@@ -1,0 +1,23 @@
+{
+  "name": "nagle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pcap": "~2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/iojs-nagle-issue"
+  },
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanlucas/iojs-nagle-issue/issues"
+  },
+  "homepage": "https://github.com/evanlucas/iojs-nagle-issue"
+}
